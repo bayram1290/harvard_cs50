@@ -1,19 +1,19 @@
 # harvard_cs50
 1. Knowlege:
-   Propositional Logic  
-   Entailment  
-   Inference  
-   Model Checking  
-   Resolution  
-   First Order Logic  
+   Propositional Logic <br />
+   Entailment <br />
+   Inference <br />
+   Model Checking <br />
+   Resolution <br />
+   First Order Logic <br />
 3. Uncertainty:
-   Probability  
-   Conditional Probability  
-   Random Variables  
-   Independence  
-   Bayes’ Rule  
-   Joint Probability  
-   Bayesian Networks  
-   Sampling  
-   Markov Models  
-   Hidden Markov Models  
+   Probability <br />>
+   Conditional Probability <br />
+   Random Variables <br />
+   Independence <br />
+   Bayes’ Rule <br />
+   Joint Probability <br />
+   Bayesian Networks <br />
+   Sampling <br />
+   Markov Models <br />
+   Hidden Markov Models <br />
