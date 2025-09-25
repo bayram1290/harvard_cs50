@@ -6,7 +6,7 @@
    Model Checking
    Resolution
    First Order Logic
-2. Uncertainty:
+3. Uncertainty:
    Probability
    Conditional Probability
    Random Variables
