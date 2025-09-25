@@ -1,6 +1,6 @@
 # harvard_cs50
 1. Knowlege:
-   Propositional Logic
+\n Propositional Logic
    Entailment
    Inference
    Model Checking
