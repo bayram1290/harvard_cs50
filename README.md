@@ -7,7 +7,7 @@
    Resolution <br />
    First Order Logic <br />
 3. Uncertainty: <br />
-   Probability <br />>
+   Probability <br />
    Conditional Probability <br />
    Random Variables <br />
    Independence <br />
