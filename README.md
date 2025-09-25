@@ -1,12 +1,12 @@
 # harvard_cs50
-1. Knowlege:
+1. Knowlege: <br />
    Propositional Logic <br />
    Entailment <br />
    Inference <br />
    Model Checking <br />
    Resolution <br />
    First Order Logic <br />
-3. Uncertainty:
+3. Uncertainty: <br />
    Probability <br />>
    Conditional Probability <br />
    Random Variables <br />
