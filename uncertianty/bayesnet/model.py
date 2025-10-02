@@ -1,5 +1,7 @@
 from pgmpy.models import DiscreteBayesianNetwork
 from pgmpy.factors.discrete import TabularCPD
+import logging
+logging.getLogger("pgmpy").setLevel(logging.ERROR)
 
 model = DiscreteBayesianNetwork([
     ('rain', 'maintenance'),
@@ -64,6 +66,13 @@ appointment_cpd = TabularCPD(
 )
 
 model.add_cpds(rain_cpd, maintenance_cpd, train_cpd, appointment_cpd)
+
+
+rain_cpd.normalize()
+maintenance_cpd.normalize()
+train_cpd.normalize()
+appointment_cpd.normalize()
+
 
 # print("Model check: ", model.check_model())
 # print("Nodes: ", model.nodes())

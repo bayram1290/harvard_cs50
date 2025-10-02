@@ -17,8 +17,6 @@ print()
 print("METHOD 1: Direct Calculation using Chain Rule")
 print("-" * 40)
 
-
-
 p_rain = inference.query(variables=['rain']).values[0]
 print(f"P(rain=none) = {p_rain:.4f}")
 
