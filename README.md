@@ -29,4 +29,4 @@
    &nbsp;&nbsp;&nbsp;&nbsp;Unary & Binary Constraints<br />
    &nbsp;&nbsp;&nbsp;&nbsp;Node Consistency<br />
    &nbsp;&nbsp;&nbsp;&nbsp;Arc Consistency<br />
-   &nbsp;&nbsp;&nbsp;&nbsp;Arc Consistency<br />
+   &nbsp;&nbsp;&nbsp;&nbsp;Backtracking Search<br />
