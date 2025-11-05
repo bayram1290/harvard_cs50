@@ -16,12 +16,15 @@ def modelTrain(epoch: int)->Nimmer:
     """
     player = Nimmer()
     for i in range(epoch):
+
         print(f'Playing training game: {i+1}')
         game = Nim()
+
         tracker={
             0: {'state': None, 'act': None},
             1: {'state': None, 'act': None},
         }
+
         while True:
             state = game.piles.copy()
             act = player.act(game.piles)
