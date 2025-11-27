@@ -1,0 +1,900 @@
+2025-11-27 12:14:30,339 - INFO - Training completed with accuracy: 1.0000
+2025-11-27 12:14:30,339 - INFO - Starting interactive sentiment analysis
+2025-11-27 12:15:14,555 - INFO - Analyzing sentiment for user: input: Your hard work and dedication are truly impressive
+2025-11-27 12:15:14,562 - INFO - ==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 12:15:14,562 - INFO - Text: Your hard work and dedication are truly impressive
+Classifier Probabilities:
+2025-11-27 12:15:14,562 - INFO -   Negatives:  0.2300
+2025-11-27 12:15:14,562 - INFO -   Positive:  0.7700
+2025-11-27 12:15:14,562 - INFO - VADER Sentiment Scores:
+2025-11-27 12:15:14,562 - INFO -   neg: 0.1110
+2025-11-27 12:15:14,562 - INFO -   neu: 0.3970
+2025-11-27 12:15:14,562 - INFO -   pos: 0.4920
+2025-11-27 12:15:14,562 - INFO -   compound: 0.7003
+2025-11-27 12:15:14,562 - INFO - Most likely sentiment: Positive (0.7700% confidence)
+2025-11-27 12:16:23,081 - INFO - Exiting the program ...
+2025-11-27 12:21:31,487 - INFO - Training completed with accuracy: 100.00 %
+2025-11-27 12:21:31,488 - INFO - Starting interactive sentiment analysis
+2025-11-27 12:22:34,066 - INFO - Analyzing sentiment for user: input:
+	I appreciate your creativity and the unique ideas you bring to the team
+2025-11-27 12:22:34,073 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 12:22:34,073 - INFO - Text: I appreciate your creativity and the unique ideas you bring to the team
+Classifier Probabilities:
+2025-11-27 12:22:34,073 - INFO -   Negatives:  0.4100
+2025-11-27 12:22:34,074 - INFO -   Positive:  0.5900
+2025-11-27 12:22:34,074 - INFO - VADER Sentiment Scores:
+2025-11-27 12:22:34,074 - INFO -   neg: 0.0000
+2025-11-27 12:22:34,074 - INFO -   neu: 0.6540
+2025-11-27 12:22:34,074 - INFO -   pos: 0.3460
+2025-11-27 12:22:34,074 - INFO -   compound: 0.6486
+2025-11-27 12:22:34,074 - INFO - Most likely sentiment: Positive (0.5900% confidence)
+2025-11-27 12:23:30,239 - INFO - 
+Exiting the program ...
+2025-11-27 12:23:43,322 - INFO - Training completed with accuracy: 100.00 %
+2025-11-27 12:23:43,323 - INFO - Starting interactive sentiment analysis
+2025-11-27 12:23:50,056 - INFO - Analyzing sentiment for user input:
+
+"I appreciate your creativity and the unique ideas you bring to the team"
+
+2025-11-27 12:23:50,063 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 12:23:50,063 - INFO - Text: I appreciate your creativity and the unique ideas you bring to the team
+Classifier Probabilities:
+2025-11-27 12:23:50,063 - INFO -   Negatives:  0.4100
+2025-11-27 12:23:50,063 - INFO -   Positive:  0.5900
+2025-11-27 12:23:50,063 - INFO - VADER Sentiment Scores:
+2025-11-27 12:23:50,063 - INFO -   neg: 0.0000
+2025-11-27 12:23:50,064 - INFO -   neu: 0.6540
+2025-11-27 12:23:50,064 - INFO -   pos: 0.3460
+2025-11-27 12:23:50,064 - INFO -   compound: 0.6486
+2025-11-27 12:23:50,064 - INFO - Most likely sentiment: Positive (0.5900% confidence)
+2025-11-27 12:24:50,127 - INFO - Analyzing sentiment for user input:
+
+"I just wanted to give you a big shoutout for achieving your targets! Your hard work didn’t go unnoticed."
+
+2025-11-27 12:24:50,135 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 12:24:50,135 - INFO - Text: I just wanted to give you a big shoutout for achieving your targets! Your hard work didn’t go unnoticed.
+Classifier Probabilities:
+2025-11-27 12:24:50,135 - INFO -   Negatives:  0.8400
+2025-11-27 12:24:50,135 - INFO -   Positive:  0.1600
+2025-11-27 12:24:50,135 - INFO - VADER Sentiment Scores:
+2025-11-27 12:24:50,135 - INFO -   neg: 0.0960
+2025-11-27 12:24:50,135 - INFO -   neu: 0.9040
+2025-11-27 12:24:50,135 - INFO -   pos: 0.0000
+2025-11-27 12:24:50,135 - INFO -   compound: -0.1759
+2025-11-27 12:24:50,135 - INFO - Most likely sentiment: Negatives (0.8400% confidence)
+2025-11-27 12:25:52,288 - INFO - Analyzing sentiment for user input:
+
+"Thank you for always going the extra mile to ensure our customers are happy. Your efforts truly set us apart"
+
+2025-11-27 12:25:52,295 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 12:25:52,295 - INFO - Text: Thank you for always going the extra mile to ensure our customers are happy. Your efforts truly set us apart
+Classifier Probabilities:
+2025-11-27 12:25:52,295 - INFO -   Negatives:  0.5500
+2025-11-27 12:25:52,295 - INFO -   Positive:  0.4500
+2025-11-27 12:25:52,295 - INFO - VADER Sentiment Scores:
+2025-11-27 12:25:52,295 - INFO -   neg: 0.0000
+2025-11-27 12:25:52,295 - INFO -   neu: 0.5780
+2025-11-27 12:25:52,295 - INFO -   pos: 0.4220
+2025-11-27 12:25:52,295 - INFO -   compound: 0.8934
+2025-11-27 12:25:52,295 - INFO - Most likely sentiment: Negatives (0.5500% confidence)
+2025-11-27 12:26:18,071 - INFO - Analyzing sentiment for user input:
+
+"Your contributions in class discussions are always insightful. Keep sharing your thoughts"
+
+2025-11-27 12:26:18,078 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 12:26:18,078 - INFO - Text: Your contributions in class discussions are always insightful. Keep sharing your thoughts
+Classifier Probabilities:
+2025-11-27 12:26:18,078 - INFO -   Negatives:  0.7400
+2025-11-27 12:26:18,078 - INFO -   Positive:  0.2600
+2025-11-27 12:26:18,078 - INFO - VADER Sentiment Scores:
+2025-11-27 12:26:18,078 - INFO -   neg: 0.0000
+2025-11-27 12:26:18,078 - INFO -   neu: 0.7970
+2025-11-27 12:26:18,078 - INFO -   pos: 0.2030
+2025-11-27 12:26:18,078 - INFO -   compound: 0.4215
+2025-11-27 12:26:18,078 - INFO - Most likely sentiment: Negatives (0.7400% confidence)
+2025-11-27 12:26:55,509 - INFO - Analyzing sentiment for user input:
+
+"Your report did not meet the required accuracy, which affected our decision-making"
+
+2025-11-27 12:26:55,516 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 12:26:55,516 - INFO - Text: Your report did not meet the required accuracy, which affected our decision-making
+Classifier Probabilities:
+2025-11-27 12:26:55,516 - INFO -   Negatives:  0.8500
+2025-11-27 12:26:55,516 - INFO -   Positive:  0.1500
+2025-11-27 12:26:55,516 - INFO - VADER Sentiment Scores:
+2025-11-27 12:26:55,516 - INFO -   neg: 0.1270
+2025-11-27 12:26:55,516 - INFO -   neu: 0.8730
+2025-11-27 12:26:55,516 - INFO -   pos: 0.0000
+2025-11-27 12:26:55,516 - INFO -   compound: -0.1531
+2025-11-27 12:26:55,516 - INFO - Most likely sentiment: Negatives (0.8500% confidence)
+2025-11-27 12:27:10,639 - INFO - Analyzing sentiment for user input:
+
+"You often interrupt others during meetings, which can disrupt the flow of conversation"
+
+2025-11-27 12:27:10,646 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 12:27:10,646 - INFO - Text: You often interrupt others during meetings, which can disrupt the flow of conversation
+Classifier Probabilities:
+2025-11-27 12:27:10,646 - INFO -   Negatives:  0.8500
+2025-11-27 12:27:10,646 - INFO -   Positive:  0.1500
+2025-11-27 12:27:10,646 - INFO - VADER Sentiment Scores:
+2025-11-27 12:27:10,646 - INFO -   neg: 0.1670
+2025-11-27 12:27:10,646 - INFO -   neu: 0.8330
+2025-11-27 12:27:10,646 - INFO -   pos: 0.0000
+2025-11-27 12:27:10,646 - INFO -   compound: -0.3400
+2025-11-27 12:27:10,646 - INFO - Most likely sentiment: Negatives (0.8500% confidence)
+2025-11-27 12:27:48,575 - INFO - Analyzing sentiment for user input:
+
+"You’re always late to meetings."
+
+2025-11-27 12:27:48,581 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 12:27:48,581 - INFO - Text: You’re always late to meetings.
+Classifier Probabilities:
+2025-11-27 12:27:48,581 - INFO -   Negatives:  0.9300
+2025-11-27 12:27:48,581 - INFO -   Positive:  0.0700
+2025-11-27 12:27:48,581 - INFO - VADER Sentiment Scores:
+2025-11-27 12:27:48,581 - INFO -   neg: 0.0000
+2025-11-27 12:27:48,581 - INFO -   neu: 1.0000
+2025-11-27 12:27:48,581 - INFO -   pos: 0.0000
+2025-11-27 12:27:48,581 - INFO -   compound: 0.0000
+2025-11-27 12:27:48,581 - INFO - Most likely sentiment: Negatives (0.9300% confidence)
+2025-11-27 12:28:10,989 - INFO - 
+Quiting the program ...
+2025-11-27 12:28:10,989 - INFO - Analyzing sentiment for user input:
+
+"quit"
+
+2025-11-27 12:28:10,996 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 12:28:10,996 - INFO - Text: quit
+Classifier Probabilities:
+2025-11-27 12:28:10,996 - INFO -   Negatives:  0.8500
+2025-11-27 12:28:10,996 - INFO -   Positive:  0.1500
+2025-11-27 12:28:10,996 - INFO - VADER Sentiment Scores:
+2025-11-27 12:28:10,996 - INFO -   neg: 0.0000
+2025-11-27 12:28:10,996 - INFO -   neu: 1.0000
+2025-11-27 12:28:10,996 - INFO -   pos: 0.0000
+2025-11-27 12:28:10,996 - INFO -   compound: 0.0000
+2025-11-27 12:28:10,996 - INFO - Most likely sentiment: Negatives (0.8500% confidence)
+2025-11-27 12:47:19,050 - INFO - Training model with "random_forest" classifier
+2025-11-27 12:47:19,050 - INFO - Total positives: 8
+2025-11-27 12:47:19,050 - INFO - Total positives: 10
+2025-11-27 12:47:19,050 - INFO - Training model on 18 total samples
+2025-11-27 12:47:20,751 - INFO - Prepared features for 18 texts
+2025-11-27 12:47:20,752 - INFO - Training Random Forest classifier
+2025-11-27 12:47:20,816 - INFO - Model trained successfully
+2025-11-27 12:47:20,819 - INFO - Training completed with accuracy: 100.00 %
+2025-11-27 12:47:20,824 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+   Negatives       1.00      1.00      1.00        10
+    Positive       1.00      1.00      1.00         8
+
+    accuracy                           1.00        18
+   macro avg       1.00      1.00      1.00        18
+weighted avg       1.00      1.00      1.00        18
+
+2025-11-27 12:47:20,824 - INFO - Training completed with accuracy: 100.00 %
+2025-11-27 12:47:20,824 - INFO - Starting interactive sentiment analysis
+2025-11-27 12:59:59,981 - INFO - Analyzing sentiment for user input:
+
+"I really appreciate how you took the time to understand the customer's needs"
+
+2025-11-27 12:59:59,988 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 12:59:59,988 - INFO - Text: I really appreciate how you took the time to understand the customer's needs
+Classifier Probabilities:
+2025-11-27 12:59:59,988 - INFO -   Negatives:  0.6200
+2025-11-27 12:59:59,988 - INFO -   Positive:  0.3800
+2025-11-27 12:59:59,988 - INFO - VADER Sentiment Scores:
+2025-11-27 12:59:59,988 - INFO -   neg: 0.0000
+2025-11-27 12:59:59,988 - INFO -   neu: 0.7860
+2025-11-27 12:59:59,988 - INFO -   pos: 0.2140
+2025-11-27 12:59:59,988 - INFO -   compound: 0.4576
+2025-11-27 12:59:59,988 - INFO - Most likely sentiment: Negatives (0.6200% confidence)
+2025-11-27 13:02:22,359 - INFO - 
+Exiting the program ...
+2025-11-27 13:02:26,269 - INFO - Training model with "random_forest" classifier
+2025-11-27 13:02:26,269 - INFO - Total positives: 8
+2025-11-27 13:02:26,269 - INFO - Total positives: 10
+2025-11-27 13:02:26,269 - INFO - Training model on 18 total samples
+2025-11-27 13:02:28,003 - INFO - Prepared features for 18 texts
+2025-11-27 13:02:28,004 - INFO - Training Random Forest classifier
+2025-11-27 13:02:28,066 - INFO - Model trained successfully
+2025-11-27 13:02:28,069 - INFO - Training completed with accuracy: 100.00 %
+2025-11-27 13:02:28,073 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+   Negatives       1.00      1.00      1.00        10
+    Positive       1.00      1.00      1.00         8
+
+    accuracy                           1.00        18
+   macro avg       1.00      1.00      1.00        18
+weighted avg       1.00      1.00      1.00        18
+
+2025-11-27 13:02:28,073 - INFO - Training completed with accuracy: 100.00 %
+2025-11-27 13:02:28,073 - INFO - Starting interactive sentiment analysis
+2025-11-27 13:02:34,800 - INFO - Analyzing sentiment for user input:
+
+"I really appreciate how you took the time to understand the customer's needs"
+
+2025-11-27 13:02:34,808 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 13:02:34,808 - INFO - Text: I really appreciate how you took the time to understand the customer's needs
+Classifier Probabilities:
+2025-11-27 13:02:34,808 - INFO -   Negatives:  0.5700
+2025-11-27 13:02:34,808 - INFO -   Positive:  0.4300
+2025-11-27 13:02:34,808 - INFO - VADER Sentiment Scores:
+2025-11-27 13:02:34,808 - INFO -   neg: 0.0000
+2025-11-27 13:02:34,808 - INFO -   neu: 0.7860
+2025-11-27 13:02:34,808 - INFO -   pos: 0.2140
+2025-11-27 13:02:34,808 - INFO -   compound: 0.4576
+2025-11-27 13:02:34,808 - INFO - Most likely sentiment: Negatives (0.5700% confidence)
+2025-11-27 14:00:57,253 - INFO - 
+Quiting the program ...
+2025-11-27 14:00:57,254 - INFO - Analyzing sentiment for user input:
+
+"quit"
+
+2025-11-27 14:00:57,261 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 14:00:57,261 - INFO - Text: quit
+Classifier Probabilities:
+2025-11-27 14:00:57,262 - INFO -   Negatives:  0.8100
+2025-11-27 14:00:57,262 - INFO -   Positive:  0.1900
+2025-11-27 14:00:57,262 - INFO - VADER Sentiment Scores:
+2025-11-27 14:00:57,262 - INFO -   neg: 0.0000
+2025-11-27 14:00:57,262 - INFO -   neu: 1.0000
+2025-11-27 14:00:57,262 - INFO -   pos: 0.0000
+2025-11-27 14:00:57,262 - INFO -   compound: 0.0000
+2025-11-27 14:00:57,262 - INFO - Most likely sentiment: Negatives (0.8100% confidence)
+2025-11-27 14:01:14,362 - INFO - Training model with "random_forest" classifier
+2025-11-27 14:01:14,363 - INFO - Total positives: 8
+2025-11-27 14:01:14,363 - INFO - Total positives: 10
+2025-11-27 14:01:14,363 - INFO - Training model on 18 total samples
+2025-11-27 14:01:14,387 - ERROR - Training failed: name 'string' is not defined
+2025-11-27 14:01:40,908 - INFO - Training model with "random_forest" classifier
+2025-11-27 14:01:40,908 - INFO - Total positives: 8
+2025-11-27 14:01:40,908 - INFO - Total positives: 10
+2025-11-27 14:01:40,908 - INFO - Training model on 18 total samples
+2025-11-27 14:01:43,950 - INFO - Prepared features for 18 texts
+2025-11-27 14:01:43,951 - INFO - Training Random Forest classifier
+2025-11-27 14:01:44,069 - INFO - Model trained successfully
+2025-11-27 14:01:44,074 - INFO - Training completed with accuracy: 100.00 %
+2025-11-27 14:01:44,080 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+   Negatives       1.00      1.00      1.00        10
+    Positive       1.00      1.00      1.00         8
+
+    accuracy                           1.00        18
+   macro avg       1.00      1.00      1.00        18
+weighted avg       1.00      1.00      1.00        18
+
+2025-11-27 14:01:44,080 - INFO - Training completed with accuracy: 100.00 %
+2025-11-27 14:01:44,081 - INFO - Starting interactive sentiment analysis
+2025-11-27 14:04:02,922 - INFO - Analyzing sentiment for user input:
+
+"I really appreciate how you took the time to understand the customer's needs"
+
+2025-11-27 14:04:02,930 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 14:04:02,930 - INFO - Text: I really appreciate how you took the time to understand the customer's needs
+Classifier Probabilities:
+2025-11-27 14:04:02,930 - INFO -   Negatives:  0.6600
+2025-11-27 14:04:02,930 - INFO -   Positive:  0.3400
+2025-11-27 14:04:02,930 - INFO - VADER Sentiment Scores:
+2025-11-27 14:04:02,930 - INFO -   neg: 0.0000
+2025-11-27 14:04:02,930 - INFO -   neu: 0.7860
+2025-11-27 14:04:02,930 - INFO -   pos: 0.2140
+2025-11-27 14:04:02,930 - INFO -   compound: 0.4576
+2025-11-27 14:04:02,930 - INFO - Most likely sentiment: Negatives (0.6600% confidence)
+2025-11-27 14:04:26,528 - INFO - 
+Quiting the program ...
+2025-11-27 14:04:26,529 - INFO - Analyzing sentiment for user input:
+
+"quit"
+
+2025-11-27 14:04:26,535 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 14:04:26,536 - INFO - Text: quit
+Classifier Probabilities:
+2025-11-27 14:04:26,536 - INFO -   Negatives:  0.8500
+2025-11-27 14:04:26,536 - INFO -   Positive:  0.1500
+2025-11-27 14:04:26,536 - INFO - VADER Sentiment Scores:
+2025-11-27 14:04:26,536 - INFO -   neg: 0.0000
+2025-11-27 14:04:26,536 - INFO -   neu: 1.0000
+2025-11-27 14:04:26,536 - INFO -   pos: 0.0000
+2025-11-27 14:04:26,536 - INFO -   compound: 0.0000
+2025-11-27 14:04:26,536 - INFO - Most likely sentiment: Negatives (0.8500% confidence)
+2025-11-27 14:04:30,831 - INFO - Training model with "random_forest" classifier
+2025-11-27 14:04:30,831 - INFO - Total positives: 8
+2025-11-27 14:04:30,831 - INFO - Total positives: 10
+2025-11-27 14:04:30,831 - INFO - Training model on 18 total samples
+2025-11-27 14:04:33,902 - INFO - Prepared features for 18 texts
+2025-11-27 14:04:33,903 - INFO - Training Random Forest classifier
+2025-11-27 14:04:34,022 - INFO - Model trained successfully
+2025-11-27 14:04:34,027 - INFO - Training completed with accuracy: 100.00 %
+2025-11-27 14:04:34,033 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+   Negatives       1.00      1.00      1.00        10
+    Positive       1.00      1.00      1.00         8
+
+    accuracy                           1.00        18
+   macro avg       1.00      1.00      1.00        18
+weighted avg       1.00      1.00      1.00        18
+
+2025-11-27 14:04:34,033 - INFO - Training completed with accuracy: 100.00 %
+2025-11-27 14:04:34,033 - INFO - Starting interactive sentiment analysis
+2025-11-27 14:04:41,520 - INFO - Analyzing sentiment for user input:
+
+"I really appreciate how you took the time to understand the customer's needs"
+
+2025-11-27 14:04:41,528 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 14:04:41,528 - INFO - Text: I really appreciate how you took the time to understand the customer's needs
+Classifier Probabilities:
+2025-11-27 14:04:41,528 - INFO -   Negatives:  0.6600
+2025-11-27 14:04:41,528 - INFO -   Positive:  0.3400
+2025-11-27 14:04:41,529 - INFO - VADER Sentiment Scores:
+2025-11-27 14:04:41,529 - INFO -   neg: 0.0000
+2025-11-27 14:04:41,529 - INFO -   neu: 0.7860
+2025-11-27 14:04:41,529 - INFO -   pos: 0.2140
+2025-11-27 14:04:41,529 - INFO -   compound: 0.4576
+2025-11-27 14:04:41,529 - INFO - Most likely sentiment: Negatives (0.6600% confidence)
+2025-11-27 14:05:07,442 - INFO - 
+Quiting the program ...
+2025-11-27 14:05:07,442 - INFO - Analyzing sentiment for user input:
+
+"quit"
+
+2025-11-27 14:05:07,449 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 14:05:07,449 - INFO - Text: quit
+Classifier Probabilities:
+2025-11-27 14:05:07,449 - INFO -   Negatives:  0.8500
+2025-11-27 14:05:07,449 - INFO -   Positive:  0.1500
+2025-11-27 14:05:07,449 - INFO - VADER Sentiment Scores:
+2025-11-27 14:05:07,449 - INFO -   neg: 0.0000
+2025-11-27 14:05:07,449 - INFO -   neu: 1.0000
+2025-11-27 14:05:07,449 - INFO -   pos: 0.0000
+2025-11-27 14:05:07,449 - INFO -   compound: 0.0000
+2025-11-27 14:05:07,449 - INFO - Most likely sentiment: Negatives (0.8500% confidence)
+2025-11-27 14:05:42,413 - INFO - Training model with "random_forest" classifier
+2025-11-27 14:05:42,413 - INFO - Total positives: 8
+2025-11-27 14:05:42,414 - INFO - Total positives: 10
+2025-11-27 14:05:42,414 - INFO - Training model on 18 total samples
+2025-11-27 14:05:45,434 - INFO - Prepared features for 18 texts
+2025-11-27 14:05:45,434 - INFO - Training Random Forest classifier
+2025-11-27 14:05:45,553 - INFO - Model trained successfully
+2025-11-27 14:05:45,558 - INFO - Training completed with accuracy: 100.00 %
+2025-11-27 14:05:45,565 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+   Negatives       1.00      1.00      1.00        10
+    Positive       1.00      1.00      1.00         8
+
+    accuracy                           1.00        18
+   macro avg       1.00      1.00      1.00        18
+weighted avg       1.00      1.00      1.00        18
+
+2025-11-27 14:05:45,565 - INFO - Training completed with accuracy: 100.00 %
+2025-11-27 14:05:45,565 - INFO - Starting interactive sentiment analysis
+2025-11-27 14:05:48,141 - INFO - Analyzing sentiment for user input:
+
+"I really appreciate how you took the time to understand the customer's goods"
+
+2025-11-27 14:05:48,147 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 14:05:48,148 - INFO - Text: I really appreciate how you took the time to understand the customer's goods
+Classifier Probabilities:
+2025-11-27 14:05:48,148 - INFO -   Negatives:  0.5900
+2025-11-27 14:05:48,148 - INFO -   Positive:  0.4100
+2025-11-27 14:05:48,148 - INFO - VADER Sentiment Scores:
+2025-11-27 14:05:48,148 - INFO -   neg: 0.0000
+2025-11-27 14:05:48,148 - INFO -   neu: 0.7860
+2025-11-27 14:05:48,148 - INFO -   pos: 0.2140
+2025-11-27 14:05:48,148 - INFO -   compound: 0.4576
+2025-11-27 14:05:48,148 - INFO - Most likely sentiment: Negatives (0.5900% confidence)
+2025-11-27 14:06:12,295 - INFO - 
+Quiting the program ...
+2025-11-27 14:06:12,296 - INFO - Analyzing sentiment for user input:
+
+"quit"
+
+2025-11-27 14:06:12,303 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 14:06:12,304 - INFO - Text: quit
+Classifier Probabilities:
+2025-11-27 14:06:12,304 - INFO -   Negatives:  0.8500
+2025-11-27 14:06:12,304 - INFO -   Positive:  0.1500
+2025-11-27 14:06:12,304 - INFO - VADER Sentiment Scores:
+2025-11-27 14:06:12,304 - INFO -   neg: 0.0000
+2025-11-27 14:06:12,304 - INFO -   neu: 1.0000
+2025-11-27 14:06:12,304 - INFO -   pos: 0.0000
+2025-11-27 14:06:12,304 - INFO -   compound: 0.0000
+2025-11-27 14:06:12,304 - INFO - Most likely sentiment: Negatives (0.8500% confidence)
+2025-11-27 14:06:22,012 - INFO - Training model with "random_forest" classifier
+2025-11-27 14:06:22,013 - INFO - Total positives: 8
+2025-11-27 14:06:22,013 - INFO - Total positives: 10
+2025-11-27 14:06:22,013 - INFO - Training model on 18 total samples
+2025-11-27 14:06:25,054 - INFO - Prepared features for 18 texts
+2025-11-27 14:06:25,054 - INFO - Training Random Forest classifier
+2025-11-27 14:06:25,172 - INFO - Model trained successfully
+2025-11-27 14:06:25,177 - INFO - Training completed with accuracy: 100.00 %
+2025-11-27 14:06:25,183 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+   Negatives       1.00      1.00      1.00        10
+    Positive       1.00      1.00      1.00         8
+
+    accuracy                           1.00        18
+   macro avg       1.00      1.00      1.00        18
+weighted avg       1.00      1.00      1.00        18
+
+2025-11-27 14:06:25,184 - INFO - Training completed with accuracy: 100.00 %
+2025-11-27 14:06:25,184 - INFO - Starting interactive sentiment analysis
+2025-11-27 14:06:46,694 - INFO - 
+Quiting the program ...
+2025-11-27 14:06:46,694 - INFO - Analyzing sentiment for user input:
+
+"quit"
+
+2025-11-27 14:06:46,701 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 14:06:46,701 - INFO - Text: quit
+Classifier Probabilities:
+2025-11-27 14:06:46,701 - INFO -   Negatives:  0.8500
+2025-11-27 14:06:46,701 - INFO -   Positive:  0.1500
+2025-11-27 14:06:46,701 - INFO - VADER Sentiment Scores:
+2025-11-27 14:06:46,701 - INFO -   neg: 0.0000
+2025-11-27 14:06:46,702 - INFO -   neu: 1.0000
+2025-11-27 14:06:46,702 - INFO -   pos: 0.0000
+2025-11-27 14:06:46,702 - INFO -   compound: 0.0000
+2025-11-27 14:06:46,702 - INFO - Most likely sentiment: Negatives (0.8500% confidence)
+2025-11-27 14:06:52,194 - INFO - Training model with "random_forest" classifier
+2025-11-27 14:06:52,195 - INFO - Total positives: 8
+2025-11-27 14:06:52,195 - INFO - Total negatives: 10
+2025-11-27 14:06:52,195 - INFO - Training model on 18 total samples
+2025-11-27 14:06:55,192 - INFO - Prepared features for 18 texts
+2025-11-27 14:06:55,193 - INFO - Training Random Forest classifier
+2025-11-27 14:06:55,311 - INFO - Model trained successfully
+2025-11-27 14:06:55,316 - INFO - Training completed with accuracy: 100.00 %
+2025-11-27 14:06:55,323 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+   Negatives       1.00      1.00      1.00        10
+    Positive       1.00      1.00      1.00         8
+
+    accuracy                           1.00        18
+   macro avg       1.00      1.00      1.00        18
+weighted avg       1.00      1.00      1.00        18
+
+2025-11-27 14:06:55,323 - INFO - Training completed with accuracy: 100.00 %
+2025-11-27 14:06:55,323 - INFO - Starting interactive sentiment analysis
+2025-11-27 14:07:09,374 - INFO - Analyzing sentiment for user input:
+
+"I really appreciate how you took the time to understand the customer's good"
+
+2025-11-27 14:07:09,382 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 14:07:09,383 - INFO - Text: I really appreciate how you took the time to understand the customer's good
+Classifier Probabilities:
+2025-11-27 14:07:09,383 - INFO -   Negatives:  0.3900
+2025-11-27 14:07:09,383 - INFO -   Positive:  0.6100
+2025-11-27 14:07:09,383 - INFO - VADER Sentiment Scores:
+2025-11-27 14:07:09,383 - INFO -   neg: 0.0000
+2025-11-27 14:07:09,383 - INFO -   neu: 0.6290
+2025-11-27 14:07:09,383 - INFO -   pos: 0.3710
+2025-11-27 14:07:09,383 - INFO -   compound: 0.7089
+2025-11-27 14:07:09,383 - INFO - Most likely sentiment: Positive (0.6100% confidence)
+2025-11-27 14:07:39,404 - INFO - Analyzing sentiment for user input:
+
+"I really appreciate how you took the time to understand the customer's bads"
+
+2025-11-27 14:07:39,411 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 14:07:39,411 - INFO - Text: I really appreciate how you took the time to understand the customer's bads
+Classifier Probabilities:
+2025-11-27 14:07:39,412 - INFO -   Negatives:  0.6900
+2025-11-27 14:07:39,412 - INFO -   Positive:  0.3100
+2025-11-27 14:07:39,412 - INFO - VADER Sentiment Scores:
+2025-11-27 14:07:39,412 - INFO -   neg: 0.0000
+2025-11-27 14:07:39,412 - INFO -   neu: 0.7860
+2025-11-27 14:07:39,412 - INFO -   pos: 0.2140
+2025-11-27 14:07:39,412 - INFO -   compound: 0.4576
+2025-11-27 14:07:39,412 - INFO - Most likely sentiment: Negatives (0.6900% confidence)
+2025-11-27 14:08:06,772 - INFO - Analyzing sentiment for user input:
+
+"I really appreciate how you took the time to understand the customer's amazing"
+
+2025-11-27 14:08:06,780 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 14:08:06,780 - INFO - Text: I really appreciate how you took the time to understand the customer's amazing
+Classifier Probabilities:
+2025-11-27 14:08:06,780 - INFO -   Negatives:  0.3900
+2025-11-27 14:08:06,780 - INFO -   Positive:  0.6100
+2025-11-27 14:08:06,780 - INFO - VADER Sentiment Scores:
+2025-11-27 14:08:06,780 - INFO -   neg: 0.0000
+2025-11-27 14:08:06,780 - INFO -   neu: 0.5950
+2025-11-27 14:08:06,780 - INFO -   pos: 0.4050
+2025-11-27 14:08:06,780 - INFO -   compound: 0.7778
+2025-11-27 14:08:06,780 - INFO - Most likely sentiment: Positive (0.6100% confidence)
+2025-11-27 14:08:19,227 - INFO - Analyzing sentiment for user input:
+
+"I really appreciate how you took the time to understand the customer's terrible"
+
+2025-11-27 14:08:19,234 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 14:08:19,234 - INFO - Text: I really appreciate how you took the time to understand the customer's terrible
+Classifier Probabilities:
+2025-11-27 14:08:19,234 - INFO -   Negatives:  0.8300
+2025-11-27 14:08:19,234 - INFO -   Positive:  0.1700
+2025-11-27 14:08:19,234 - INFO - VADER Sentiment Scores:
+2025-11-27 14:08:19,234 - INFO -   neg: 0.1930
+2025-11-27 14:08:19,234 - INFO -   neu: 0.6210
+2025-11-27 14:08:19,234 - INFO -   pos: 0.1860
+2025-11-27 14:08:19,234 - INFO -   compound: -0.0276
+2025-11-27 14:08:19,234 - INFO - Most likely sentiment: Negatives (0.8300% confidence)
+2025-11-27 14:10:08,744 - INFO - 
+Quiting the program ...
+2025-11-27 14:10:08,745 - INFO - Analyzing sentiment for user input:
+
+"quit"
+
+2025-11-27 14:10:08,752 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 14:10:08,752 - INFO - Text: quit
+Classifier Probabilities:
+2025-11-27 14:10:08,752 - INFO -   Negatives:  0.8500
+2025-11-27 14:10:08,752 - INFO -   Positive:  0.1500
+2025-11-27 14:10:08,752 - INFO - VADER Sentiment Scores:
+2025-11-27 14:10:08,752 - INFO -   neg: 0.0000
+2025-11-27 14:10:08,752 - INFO -   neu: 1.0000
+2025-11-27 14:10:08,752 - INFO -   pos: 0.0000
+2025-11-27 14:10:08,752 - INFO -   compound: 0.0000
+2025-11-27 14:10:08,752 - INFO - Most likely sentiment: Negatives (0.8500% confidence)
+2025-11-27 14:10:12,720 - INFO - Training model with "random_forest" classifier
+2025-11-27 14:10:12,720 - INFO - Total positives: 8
+2025-11-27 14:10:12,720 - INFO - Total negatives: 10
+2025-11-27 14:10:12,720 - INFO - Training model on 18 total samples
+2025-11-27 14:10:15,788 - INFO - Prepared features for 18 texts
+2025-11-27 14:10:15,789 - INFO - Training Random Forest classifier
+2025-11-27 14:10:15,906 - INFO - Model trained successfully
+2025-11-27 14:10:15,911 - INFO - Training completed with accuracy: 100.00 %
+2025-11-27 14:10:15,918 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+   Negatives       1.00      1.00      1.00        10
+    Positive       1.00      1.00      1.00         8
+
+    accuracy                           1.00        18
+   macro avg       1.00      1.00      1.00        18
+weighted avg       1.00      1.00      1.00        18
+
+2025-11-27 14:10:15,918 - INFO - Training completed with accuracy: 100.00 %
+2025-11-27 14:10:15,918 - INFO - Starting interactive sentiment analysis
+2025-11-27 14:10:35,274 - INFO - Analyzing sentiment for user input:
+
+"I really appreciate how you took the time to understand the customer's good"
+
+2025-11-27 14:10:35,281 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 14:10:35,282 - INFO - Text: I really appreciate how you took the time to understand the customer's good
+Classifier Probabilities:
+2025-11-27 14:10:35,282 - INFO -   Negatives:  0.3900
+2025-11-27 14:10:35,282 - INFO -   Positive:  0.6100
+2025-11-27 14:10:35,282 - INFO - VADER Sentiment Scores:
+2025-11-27 14:10:35,282 - INFO -   neg: 0.0000
+2025-11-27 14:10:35,282 - INFO -   neu: 0.6290
+2025-11-27 14:10:35,282 - INFO -   pos: 0.3710
+2025-11-27 14:10:35,282 - INFO -   compound: 0.7089
+2025-11-27 14:10:35,282 - INFO - Most likely sentiment: Positive (0.6100% confidence)
+2025-11-27 14:10:41,184 - INFO - Analyzing sentiment for user input:
+
+"I really appreciate how you took the time to understand the customer's bad"
+
+2025-11-27 14:10:41,191 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 14:10:41,191 - INFO - Text: I really appreciate how you took the time to understand the customer's bad
+Classifier Probabilities:
+2025-11-27 14:10:41,191 - INFO -   Negatives:  0.8300
+2025-11-27 14:10:41,191 - INFO -   Positive:  0.1700
+2025-11-27 14:10:41,191 - INFO - VADER Sentiment Scores:
+2025-11-27 14:10:41,191 - INFO -   neg: 0.2120
+2025-11-27 14:10:41,191 - INFO -   neu: 0.6060
+2025-11-27 14:10:41,191 - INFO -   pos: 0.1810
+2025-11-27 14:10:41,191 - INFO -   compound: -0.1298
+2025-11-27 14:10:41,191 - INFO - Most likely sentiment: Negatives (0.8300% confidence)
+2025-11-27 14:11:22,297 - INFO - 
+Quiting the program ...
+2025-11-27 14:11:22,297 - INFO - Analyzing sentiment for user input:
+
+"quit"
+
+2025-11-27 14:11:22,305 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 14:11:22,305 - INFO - Text: quit
+Classifier Probabilities:
+2025-11-27 14:11:22,306 - INFO -   Negatives:  0.8500
+2025-11-27 14:11:22,306 - INFO -   Positive:  0.1500
+2025-11-27 14:11:22,306 - INFO - VADER Sentiment Scores:
+2025-11-27 14:11:22,306 - INFO -   neg: 0.0000
+2025-11-27 14:11:22,306 - INFO -   neu: 1.0000
+2025-11-27 14:11:22,306 - INFO -   pos: 0.0000
+2025-11-27 14:11:22,306 - INFO -   compound: 0.0000
+2025-11-27 14:11:22,306 - INFO - Most likely sentiment: Negatives (0.8500% confidence)
+2025-11-27 14:17:07,972 - INFO - Training model with "random_forest" classifier
+2025-11-27 14:17:07,972 - INFO - Total positives: 8
+2025-11-27 14:17:07,972 - INFO - Total negatives: 10
+2025-11-27 14:17:07,972 - INFO - Training model on 18 total samples
+2025-11-27 14:17:11,068 - INFO - Prepared features for 18 texts
+2025-11-27 14:17:11,069 - INFO - Training Random Forest classifier
+2025-11-27 14:17:11,194 - INFO - Model trained successfully
+2025-11-27 14:17:11,200 - INFO - Training completed with accuracy: 100.00 %
+2025-11-27 14:17:11,206 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+   Negatives       1.00      1.00      1.00        10
+    Positive       1.00      1.00      1.00         8
+
+    accuracy                           1.00        18
+   macro avg       1.00      1.00      1.00        18
+weighted avg       1.00      1.00      1.00        18
+
+2025-11-27 14:17:11,207 - INFO - Training completed with accuracy: 100.00 %
+2025-11-27 14:17:11,207 - INFO - Starting interactive sentiment analysis
+2025-11-27 14:17:16,560 - INFO - Analyzing sentiment for user input:
+
+"I really appreciate how you took the time to understand the customer's negative"
+
+2025-11-27 14:17:16,567 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 14:17:16,568 - INFO - Text: I really appreciate how you took the time to understand the customer's negative
+Classifier Probabilities:
+2025-11-27 14:17:16,568 - INFO -   Negatives:  0.8000
+2025-11-27 14:17:16,568 - INFO -   Positive:  0.2000
+2025-11-27 14:17:16,568 - INFO - VADER Sentiment Scores:
+2025-11-27 14:17:16,568 - INFO -   neg: 0.2220
+2025-11-27 14:17:16,568 - INFO -   neu: 0.5990
+2025-11-27 14:17:16,568 - INFO -   pos: 0.1790
+2025-11-27 14:17:16,568 - INFO -   compound: -0.1796
+2025-11-27 14:17:16,568 - INFO - Most likely sentiment: Negatives (80.00% confidence)
+2025-11-27 14:17:32,753 - INFO - Analyzing sentiment for user input:
+
+"I really appreciate how you took the time to understand the customer's excellent"
+
+2025-11-27 14:17:32,765 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 14:17:32,766 - INFO - Text: I really appreciate how you took the time to understand the customer's excellent
+Classifier Probabilities:
+2025-11-27 14:17:32,766 - INFO -   Negatives:  0.3900
+2025-11-27 14:17:32,766 - INFO -   Positive:  0.6100
+2025-11-27 14:17:32,766 - INFO - VADER Sentiment Scores:
+2025-11-27 14:17:32,766 - INFO -   neg: 0.0000
+2025-11-27 14:17:32,766 - INFO -   neu: 0.5990
+2025-11-27 14:17:32,766 - INFO -   pos: 0.4010
+2025-11-27 14:17:32,766 - INFO -   compound: 0.7713
+2025-11-27 14:17:32,766 - INFO - Most likely sentiment: Positive (61.00% confidence)
+2025-11-27 14:17:43,800 - INFO - 
+Exiting the program ...
+2025-11-27 14:20:19,406 - INFO - Training model with "random_forest" classifier
+2025-11-27 14:20:19,407 - INFO - Total positives: 8
+2025-11-27 14:20:19,407 - INFO - Total negatives: 10
+2025-11-27 14:20:19,407 - INFO - Training model on 18 total samples
+2025-11-27 14:20:22,490 - INFO - Prepared features for 18 texts
+2025-11-27 14:20:22,491 - INFO - Training Random Forest classifier
+2025-11-27 14:20:22,609 - INFO - Model trained successfully
+2025-11-27 14:20:22,615 - INFO - Training completed with accuracy: 100.00 %
+2025-11-27 14:20:22,621 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+   Negatives       1.00      1.00      1.00        10
+    Positive       1.00      1.00      1.00         8
+
+    accuracy                           1.00        18
+   macro avg       1.00      1.00      1.00        18
+weighted avg       1.00      1.00      1.00        18
+
+2025-11-27 14:20:22,621 - INFO - Training completed with accuracy: 100.00 %
+2025-11-27 14:20:22,621 - INFO - Starting interactive sentiment analysis
+2025-11-27 14:20:24,996 - INFO - Analyzing sentiment for user input:
+
+"I really appreciate how you took the time to understand the customer's negative"
+
+2025-11-27 14:20:25,005 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 14:20:25,006 - INFO - Text: I really appreciate how you took the time to understand the customer's negative
+Classifier Probabilities:
+2025-11-27 14:20:25,006 - INFO -   Negatives:  0.7500
+2025-11-27 14:20:25,006 - INFO -   Positive:  0.2500
+2025-11-27 14:20:25,006 - INFO - VADER Sentiment Scores:
+2025-11-27 14:20:25,006 - INFO -   neg: 0.2220
+2025-11-27 14:20:25,006 - INFO -   neu: 0.5990
+2025-11-27 14:20:25,006 - INFO -   pos: 0.1790
+2025-11-27 14:20:25,006 - INFO -   compound: -0.1796
+2025-11-27 14:20:25,006 - INFO - Most likely sentiment: Negatives (75.00% confidence)
+2025-11-27 14:20:33,883 - INFO - Analyzing sentiment for user input:
+
+"I really appreciate how you took the time to understand the customer's amazing"
+
+2025-11-27 14:20:33,890 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 14:20:33,890 - INFO - Text: I really appreciate how you took the time to understand the customer's amazing
+Classifier Probabilities:
+2025-11-27 14:20:33,890 - INFO -   Negatives:  0.3900
+2025-11-27 14:20:33,890 - INFO -   Positive:  0.6100
+2025-11-27 14:20:33,890 - INFO - VADER Sentiment Scores:
+2025-11-27 14:20:33,890 - INFO -   neg: 0.0000
+2025-11-27 14:20:33,890 - INFO -   neu: 0.5950
+2025-11-27 14:20:33,891 - INFO -   pos: 0.4050
+2025-11-27 14:20:33,891 - INFO -   compound: 0.7778
+2025-11-27 14:20:33,891 - INFO - Most likely sentiment: Positive (61.00% confidence)
+2025-11-27 14:22:04,994 - INFO - 
+Quiting the program ...
+2025-11-27 14:22:04,995 - INFO - Analyzing sentiment for user input:
+
+"quit"
+
+2025-11-27 14:22:05,001 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 14:22:05,002 - INFO - Text: quit
+Classifier Probabilities:
+2025-11-27 14:22:05,002 - INFO -   Negatives:  0.8100
+2025-11-27 14:22:05,002 - INFO -   Positive:  0.1900
+2025-11-27 14:22:05,002 - INFO - VADER Sentiment Scores:
+2025-11-27 14:22:05,002 - INFO -   neg: 0.0000
+2025-11-27 14:22:05,002 - INFO -   neu: 1.0000
+2025-11-27 14:22:05,002 - INFO -   pos: 0.0000
+2025-11-27 14:22:05,002 - INFO -   compound: 0.0000
+2025-11-27 14:22:05,002 - INFO - Most likely sentiment: Negatives (81.00% confidence)
+2025-11-27 14:22:09,551 - INFO - Training model with "random_forest" classifier
+2025-11-27 14:22:09,551 - INFO - Total positives: 8
+2025-11-27 14:22:09,551 - INFO - Total negatives: 10
+2025-11-27 14:22:09,551 - INFO - Training model on 18 total samples
+2025-11-27 14:22:12,777 - INFO - Prepared features for 18 texts
+2025-11-27 14:22:12,778 - INFO - Training Random Forest classifier
+2025-11-27 14:22:12,898 - INFO - Model trained successfully
+2025-11-27 14:22:12,904 - INFO - Training completed with accuracy: 100.00 %
+2025-11-27 14:22:12,910 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+   Negatives       1.00      1.00      1.00        10
+    Positive       1.00      1.00      1.00         8
+
+    accuracy                           1.00        18
+   macro avg       1.00      1.00      1.00        18
+weighted avg       1.00      1.00      1.00        18
+
+2025-11-27 14:22:12,910 - INFO - Training completed with accuracy: 100.00 %
+2025-11-27 14:22:12,910 - INFO - Starting interactive sentiment analysis
+2025-11-27 14:22:17,442 - INFO - Analyzing sentiment for user input:
+
+"I really appreciate how you took the time to understand the customer's negative"
+
+2025-11-27 14:22:17,450 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 14:22:17,451 - INFO - Text: I really appreciate how you took the time to understand the customer's negative
+Classifier Probabilities:
+2025-11-27 14:22:17,451 - INFO -   Negatives:  0.7500
+2025-11-27 14:22:17,451 - INFO -   Positive:  0.2500
+2025-11-27 14:22:17,451 - INFO - VADER Sentiment Scores:
+2025-11-27 14:22:17,451 - INFO -   neg: 0.2220
+2025-11-27 14:22:17,451 - INFO -   neu: 0.5990
+2025-11-27 14:22:17,451 - INFO -   pos: 0.1790
+2025-11-27 14:22:17,451 - INFO -   compound: -0.1796
+2025-11-27 14:22:17,451 - INFO - Most likely sentiment: Negatives (75.00% confidence)
+2025-11-27 14:22:35,135 - INFO - Analyzing sentiment for user input:
+
+"I really appreciate how you took the time to understand the customer's love"
+
+2025-11-27 14:22:35,144 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 14:22:35,144 - INFO - Text: I really appreciate how you took the time to understand the customer's love
+Classifier Probabilities:
+2025-11-27 14:22:35,144 - INFO -   Negatives:  0.3900
+2025-11-27 14:22:35,144 - INFO -   Positive:  0.6100
+2025-11-27 14:22:35,144 - INFO - VADER Sentiment Scores:
+2025-11-27 14:22:35,144 - INFO -   neg: 0.0000
+2025-11-27 14:22:35,144 - INFO -   neu: 0.5820
+2025-11-27 14:22:35,144 - INFO -   pos: 0.4180
+2025-11-27 14:22:35,144 - INFO -   compound: 0.8016
+2025-11-27 14:22:35,144 - INFO - Most likely sentiment: Positive (61.00% confidence)
+2025-11-27 14:25:52,003 - INFO - 
+Quiting the program ...
+2025-11-27 14:25:52,004 - INFO - Analyzing sentiment for user input:
+
+"quit"
+
+2025-11-27 14:25:52,012 - INFO - 
+==================================================
+Sentiment Analysis Results
+==================================================
+2025-11-27 14:25:52,012 - INFO - Text: quit
+Classifier Probabilities:
+2025-11-27 14:25:52,013 - INFO -   Negatives:  0.8100
+2025-11-27 14:25:52,013 - INFO -   Positive:  0.1900
+2025-11-27 14:25:52,013 - INFO - VADER Sentiment Scores:
+2025-11-27 14:25:52,013 - INFO -   neg: 0.0000
+2025-11-27 14:25:52,013 - INFO -   neu: 1.0000
+2025-11-27 14:25:52,013 - INFO -   pos: 0.0000
+2025-11-27 14:25:52,013 - INFO -   compound: 0.0000
+2025-11-27 14:25:52,013 - INFO - Most likely sentiment: Negatives (81.00% confidence)
